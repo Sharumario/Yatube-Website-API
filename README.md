@@ -6,7 +6,7 @@ API для Yatub представляет собой проект социаль
 ![Python](https://img.shields.io/badge/Python-3.9.8-%23254F72?style=flat-square&logo=python&logoColor=yellow&labelColor=254f72)
 ![Django](https://img.shields.io/badge/Django-2.2.16-0C4B33?style=flat-square&logo=django&logoColor=white&labelColor=0C4B33)
 ![Django](https://img.shields.io/badge/Django%20REST-3.12.4-802D2D?style=flat-square&logo=django&logoColor=white&labelColor=802D2D)
-![Django](https://img.shields.io/badge/JWT+Djoser-50c878?style=flat-square&logo=jwt)
+![Django](https://img.shields.io/badge/JWT+Djoser-4169E1?style=flat-square&logo=jwt)
 ### Возможности проекта:
 - Публикация записей с изображениями.
 - Публикация записей в сообщества.
