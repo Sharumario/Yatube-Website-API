@@ -48,7 +48,7 @@ class FollowViewSet(mixins.CreateModelMixin,
 
     serializer_class = FollowSerializer
     filter_backends = (filters.SearchFilter,)
-    search_fields = ('following__username',)
+    search_fields = ('author__username',)
     permission_classes = (IsAuthenticated,
                           IsAuthorOrReadOnlyPermission,)
 
